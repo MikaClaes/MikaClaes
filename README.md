@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a Applied Computer Science Student from Belgium<br><br>- 📚 I'm currently studying at Thomas More University of Applied Sciences<br>- 🔭 I’m working on some personal projects as well</p>
+<p align="left">I'm a Applied Computer Science Student from Belgium<br><br>- 📚 I'm currently studying at Thomas More University of Applied Sciences<br>- 🔭 I’m working on some personal projects as well!</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
