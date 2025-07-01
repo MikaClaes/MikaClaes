@@ -35,7 +35,6 @@
 <p align="left">I'm a Applied Computer Science Student from Belgium<br><br>- 📚 I'm currently studying at Thomas More University of Applied Sciences<br>- 🔭 I’m working on some personal projects as well</p>
 
 ###
-<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -59,7 +58,6 @@
 </div>
 
 ###
-<br>
 <h3 align="left">🚀 Featured Projects</h3>
 
 ###
